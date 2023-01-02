@@ -3,7 +3,24 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Day7" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Day1/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2/pom.xml" />
+        <option value="$PROJECT_DIR$/Day3/pom.xml" />
+        <option value="$PROJECT_DIR$/Day4/pom.xml" />
+        <option value="$PROJECT_DIR$/Day5/pom.xml" />
+        <option value="$PROJECT_DIR$/Day6/pom.xml" />
+        <option value="$PROJECT_DIR$/Day7/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
